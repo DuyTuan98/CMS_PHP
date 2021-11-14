@@ -13,7 +13,7 @@
              $post_title = $row['post_title'];
           $str ="<div class='search_v shadow py-2'>
           <a class='search_va' href='blog-details.php?post=$post_id'>
-          <img class='search_vimg'src='img/$post_image'> <strong class='search_vst search__name'>".$post_title."</strong>
+          <img class='search_vimg'src='admin/img_upload/$post_image'> <strong class='search_vst search__name'>".$post_title."</strong>
           </br>
           </div> 
           </a>";

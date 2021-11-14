@@ -1,3 +1,7 @@
+<?php
+  if(!isset( $_SESSION['user_name']))
+  header("Location: index.php");
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,11 +31,11 @@
     .table__center td {
       text-align: center;
     }
-    .table__center input,textarea {
+    /* .table__center input,textarea {
       width: 90% !important;
     }
     .tox.tox-tinymce {
-    width: 90% !important;
+    width: 90% !important; */
 }
   </style>
 </head>
@@ -255,7 +259,7 @@
                   Activity Log
                 </a>
                 <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="login.php" data-toggle="modal" data-target="#logoutModal">
+                <a class="dropdown-item" href="logout.php">
                   <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
                   Logout
                 </a>

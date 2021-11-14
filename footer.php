@@ -55,19 +55,19 @@
                         <ul>
                             <li class="clearfix">
                                 <div class="inner">
-                                    <span class="address">Triều Thủy, Phú An<br> Phú Vang, Thừa Thiên Huế.</span>
+                                    <span class="address">Bình Phuc, Thăng Bình, Quảng Nam.</span>
                                 </div>
                             </li>
 
                             <li class="clearfix">
                                 <div class="inner">
-                                    <span class="phone">070 3584 997</span>
+                                    <span class="phone">038 575 4567</span>
                                 </div>
                             </li>
 
                             <li class="clearfix">
                                 <div class="innerinner">
-                                    <span class="email">Voduytuan1998@gmail.com</span>
+                                    <span class="email">duytuan.it.k40b@gmail.com</span>
                                 </div>
                             </li>
                         </ul>
@@ -85,7 +85,7 @@
                 <div id="bottom-bar-inner" class="clearfix">
                     <div class="bottom-bar-content">
                         <div id="copyright">
-                            Copyright © 2019 <span>Duy Tuấn</span> - Blog Channel.
+                            Copyright © 2021 <span>Duy Tuấn</span> - Blog Channel.
                         </div><!-- #copyright -->
                     </div>
                 </div>
@@ -98,8 +98,7 @@
 
 <a id="scroll-top"></a>
 
-<!-- 
-<!-- Javascript -->
+<!--  Javascript -->
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/plugins.js"></script>
@@ -149,7 +148,7 @@ function process() {
 
 
    });
-</script> -->
+</script>
 </body>
 
 </html>

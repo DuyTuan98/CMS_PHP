@@ -35,7 +35,7 @@ include_once "header.php";
                                             <article class="hentry">
                                                 <div class="post-media clearfix">
                                                     <a href="blog-details.php?post=<?php echo $post_id ?>">
-                                                        <img src="img/<?php echo $post_image ?>" alt="Image">
+                                                        <img src="admin/img_upload/<?php echo $post_image ?>" alt="Image">
                                                     </a>
                                                 </div><!-- .post-media -->
 

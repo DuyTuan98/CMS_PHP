@@ -113,7 +113,7 @@
                                            <li class="clearfix">
                                             <div class="thumb">
                                                 <a href="blog-details.php?post=<?php echo $post_id ?>">
-                                                    <img src="img/<?php echo $post_image  ?>" class="img__width" alt="Image">
+                                                    <img src="admin/img_upload/<?php echo $post_image  ?>" class="img__width" alt="Image">
                                                 </a>
                                             </div><!-- .thumb -->
 
